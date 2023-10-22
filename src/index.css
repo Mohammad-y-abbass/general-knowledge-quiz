@@ -1,0 +1,19 @@
+body {
+  background-color: #f7f7f7;
+  color: #000;
+  font-family: sans-serif;
+}
+.endContainer {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.endTitle {
+  font-size: 4rem;
+}
+.restart {
+  padding: 1rem 2rem;
+  border: none;
+}
